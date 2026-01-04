@@ -29,7 +29,7 @@ I enjoy solving real-world problems through clean architecture, efficient code, 
 
 ## 🏆 Achievements
 
-- 🧠 Solved **800+ DSA** and **50+ SQL** problems across competitive coding platforms  
+- 🧠 Solved **1000+ DSA** problems across competitive coding platforms  
 - ✅ Cleared **BITS HD**, **GATE**, and **JEE Mains**
 - 💡 Strong foundation in **Data Structures, Algorithms, OOPs, and System Design**
 
